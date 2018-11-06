@@ -26,7 +26,7 @@ public class Constants {
     public static final By greeting = (By.xpath("//textarea[@placeholder='מזל טוב, תודה רבה או פשוט מלא אהבה? כאן כותבים מילים טובות ואיחולים שמחים, עד 100 תווים']"));
     public static final By dropdownEvent = (By.xpath("//span[.='לאיזה אירוע?']")) ;
     public static final By Choose_Event = (By.className("active-result"));
-    public static final By uploadElement = By.name("fileUploadדלגחנכדגלנכל");
+    public static final By uploadElement = By.name("fileUpload");
     public static final By payNowRadioButton = (By.xpath("//label[.='מיד אחרי התשלום']")) ;
     public static final By PayLaterRadioButton = (By.xpath("//label[.='מאוחר יותר']")) ;
     public static final By sendByEmail = (By.xpath("//span[.='במייל']"));
