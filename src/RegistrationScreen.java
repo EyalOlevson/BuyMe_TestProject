@@ -11,7 +11,7 @@ public class RegistrationScreen {
     }
     //Function for submitting test in email field
     protected static void EnterEmail(WebDriver driver) {
-        driver.findElement(Constants.enterEmail).sendKeys("pooki@pookipookii29.com");
+        driver.findElement(Constants.enterEmail).sendKeys("pooki@pookipookii34.com");
     }
     //Function for submitting test in Password field
     protected static void EnterPassword (WebDriver driver) {
